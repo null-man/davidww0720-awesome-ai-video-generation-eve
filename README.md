@@ -51,6 +51,9 @@ AI video generation moved from research demos to production workflows between 20
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) — Image-to-video with realistic motion physics.
 - [Genmo](https://www.genmo.ai/) — Hosted access to Mochi-family models with image-to-video workflow.
 - [Topview AI](https://www.topview.ai/) — Image-to-video with Product Avatar that physically demonstrates the uploaded product.
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) — Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) — Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) — Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 
 ### Multimodal
 
